@@ -1,0 +1,9 @@
+{
+    "url": "mongodb://localhost:27017/myServer",
+    "username": "liux",
+    "password": "liux",
+    "serverSite": "http://127.0.0.1:8001/",
+    "db_name": "myServer",
+    "db_host": "127.0.0.1",
+    "db_port": "27017"
+}
